@@ -1,4 +1,4 @@
-# Mac Monitor Pro & Relay Controller (ESP8266)
+# Mac Monitor & Relay Controller (ESP8266)
 
 这是一个基于 ESP8266 (NodeMCU) 的桌面多功能终端，集成了 **Mac 性能监视器** 和 **双路继电器控制**。
 解决了 ESP8266 常见的“上电继电器误触闪烁”问题
